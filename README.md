@@ -1,5 +1,5 @@
 ``` diff
-[jusa@confy] > ~ bio
+yusa@kagura ~> ./bio
 @@hello! my name is yusa, welcome!@@
 + gentoo user
 ! brazilian 
