@@ -4,6 +4,6 @@ yusa@flowers ~> ./bio.py
 + gentoo/arch user
 ! brazilian 
 - i love web things (mainly 2000's) like scott pilgrim, homestuck etc etc xp
-# it matters where u are...
+# about music, im a great shoegaze, metal, ambient and whtever u want fan!
 ```
 
