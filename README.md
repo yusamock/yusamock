@@ -1,5 +1,5 @@
 ``` diff
-yusa@flowers ~> ./bio.py
+yusa@lux ~> sh bio.sh
 @@hello! my name is yusa, welcome!@@
 + gentoo/arch user
 ! brazilian 
