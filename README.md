@@ -1,3 +1,5 @@
+<img align="left" height="170" src="computer.gif"/>
+
 ``` diff
 yusa@lux ~> sh bio.sh
 @@hello! my name is yusa, welcome!@@
